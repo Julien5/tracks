@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="JBO"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<metadata>
+    <name>600-1</name>
+</metadata>
+<wpt lat="48.400618" lon="9.392185">
+ <name>K1-09:48</name>
+ <desc>Gomadingen</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="48.161372" lon="9.557614">
+ <name>K2-12:32</name>
+ <desc>Bussen</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="48.052211" lon="8.968853">
+ <name>K3-17:00</name>
+ <desc>Beuron</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="47.935469" lon="8.826937">
+ <name>K4-18:40</name>
+ <desc>Witthoh</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="47.719128" lon="8.471061">
+ <name>K5-21:52</name>
+ <desc>Hallauer</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="47.672209" lon="9.161300">
+ <name>K6-02:44</name>
+ <desc>Konstanz</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+
+</gpx>

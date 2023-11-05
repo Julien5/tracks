@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <rte>
+    <name>NANTES-SNCF87</name>
+    <rtept lat="46.945281" lon="-2.182962">
+      <name>00</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.884374" lon="-2.148395">
+      <name>01</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.880273" lon="-2.107091">
+      <name>02</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.861296" lon="-2.074697">
+      <name>03</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.876941" lon="-2.019977">
+      <name>04</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.900791" lon="-2.001243">
+      <name>05</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.903859" lon="-1.930314">
+      <name>06</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.939083" lon="-1.881728">
+      <name>07</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="46.950883" lon="-1.840317">
+      <name>08</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.028212" lon="-1.785707">
+      <name>09</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.083519" lon="-1.782543">
+      <name>10</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.105713" lon="-1.725448">
+      <name>11</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.141816" lon="-1.697162">
+      <name>12</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.15387" lon="-1.632653">
+      <name>13</name>
+      <sym>City (Small)</sym>
+    </rtept>
+    <rtept lat="47.215567" lon="-1.540351">
+      <name>14</name>
+      <sym>City (Small)</sym>
+    </rtept>
+  </rte>
+</gpx>

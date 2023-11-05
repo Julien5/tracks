@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="JBO"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<metadata>
+    <name>600-2</name>
+</metadata>
+<wpt lat="47.487435" lon="9.699635">
+ <name>K7-06:44</name>
+ <desc>Hard</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="47.860695" lon="8.785184">
+ <name>K8-13:52</name>
+ <desc>Hegau</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="48.055329" lon="8.530456">
+ <name>K9-16:56</name>
+ <desc>Schwenningen</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="48.446220" lon="8.783098">
+ <name>K10-21:20</name>
+ <desc>Eyach</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="48.497034" lon="9.063070">
+ <name>K11-23:00</name>
+ <desc>Ziel</desc>
+ <sym>Flag, Blue</sym>
+</wpt>
+
+</gpx>
