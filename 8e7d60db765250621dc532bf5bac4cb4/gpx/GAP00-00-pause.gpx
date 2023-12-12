@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.9815720636" lon="10.911530368">
+        <ele>414.47</ele>
+        <time>2023-09-23T16:51:31Z</time>
+      </trkpt>
+      <trkpt lat="48.9815678727" lon="10.9115320444">
+        <ele>414.47</ele>
+        <time>2023-09-23T16:51:39Z</time>
+      </trkpt>
+      <trkpt lat="48.9815827925" lon="10.9116141871">
+        <ele>420.71</ele>
+        <time>2023-09-23T17:54:46Z</time>
+      </trkpt>
+      <trkpt lat="48.9815763384" lon="10.9115545079">
+        <ele>411.58</ele>
+        <time>2023-09-23T17:55:06Z</time>
+      </trkpt>
+      <trkpt lat="48.9815534558" lon="10.9115757979">
+        <ele>409.18</ele>
+        <time>2023-09-23T17:55:27Z</time>
+      </trkpt>
+      <trkpt lat="48.9815449063" lon="10.9115948249">
+        <ele>408.22</ele>
+        <time>2023-09-23T17:55:49Z</time>
+      </trkpt>
+      <trkpt lat="48.9815369435" lon="10.9115786478">
+        <ele>406.29</ele>
+        <time>2023-09-23T17:56:12Z</time>
+      </trkpt>
+      <trkpt lat="48.981547337" lon="10.9116180427">
+        <ele>408.22</ele>
+        <time>2023-09-23T17:56:44Z</time>
+      </trkpt>
+      <trkpt lat="48.9815523662" lon="10.9116130974">
+        <ele>408.22</ele>
+        <time>2023-09-23T17:57:10Z</time>
+      </trkpt>
+      <trkpt lat="48.9815552998" lon="10.9116204735">
+        <ele>409.66</ele>
+        <time>2023-09-23T17:57:35Z</time>
+      </trkpt>
+      <trkpt lat="48.9815641847" lon="10.9116283525">
+        <ele>412.06</ele>
+        <time>2023-09-23T17:58:05Z</time>
+      </trkpt>
+      <trkpt lat="48.9815661963" lon="10.9116084035">
+        <ele>412.06</ele>
+        <time>2023-09-23T17:58:33Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
