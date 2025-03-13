@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="47.5527453236" lon="9.7078904975">
+        <ele>407.74</ele>
+        <time>2022-08-06T15:28:54Z</time>
+      </trkpt>
+      <trkpt lat="47.5527606625" lon="9.7079389449">
+        <ele>409.66</ele>
+        <time>2022-08-06T15:29:14Z</time>
+      </trkpt>
+      <trkpt lat="47.5527635124" lon="9.7079454828">
+        <ele>407.26</ele>
+        <time>2022-08-06T15:29:36Z</time>
+      </trkpt>
+      <trkpt lat="47.5527023245" lon="9.7077195067">
+        <ele>407.26</ele>
+        <time>2022-08-06T15:29:42Z</time>
+      </trkpt>
+      <trkpt lat="47.5526744965" lon="9.7074681334">
+        <ele>407.26</ele>
+        <time>2022-08-06T15:29:46Z</time>
+      </trkpt>
+      <trkpt lat="47.5526857283" lon="9.7072471026">
+        <ele>407.26</ele>
+        <time>2022-08-06T15:29:49Z</time>
+      </trkpt>
+      <trkpt lat="47.552665947" lon="9.705548007">
+        <ele>406.77</ele>
+        <time>2022-08-06T15:30:09Z</time>
+      </trkpt>
+      <trkpt lat="47.5526629295" lon="9.7053758428">
+        <ele>408.7</ele>
+        <time>2022-08-06T15:30:11Z</time>
+      </trkpt>
+      <trkpt lat="47.5526544638" lon="9.7040911485">
+        <ele>407.74</ele>
+        <time>2022-08-06T15:30:26Z</time>
+      </trkpt>
+      <trkpt lat="47.5526646059" lon="9.7039398551">
+        <ele>407.74</ele>
+        <time>2022-08-06T15:30:28Z</time>
+      </trkpt>
+      <trkpt lat="47.552688159" lon="9.7037666012">
+        <ele>407.26</ele>
+        <time>2022-08-06T15:30:31Z</time>
+      </trkpt>
+      <trkpt lat="47.5527687091" lon="9.7032163292">
+        <ele>406.77</ele>
+        <time>2022-08-06T15:30:43Z</time>
+      </trkpt>
+      <trkpt lat="47.5527588185" lon="9.7025904525">
+        <ele>406.77</ele>
+        <time>2022-08-06T15:30:55Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

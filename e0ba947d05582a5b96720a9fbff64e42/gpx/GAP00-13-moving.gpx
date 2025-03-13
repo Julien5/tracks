@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="50.3084121644" lon="11.9235739298">
+        <ele>512.52</ele>
+        <time>2023-10-30T12:57:00Z</time>
+      </trkpt>
+      <trkpt lat="50.3084202111" lon="11.9235851616">
+        <ele>512.52</ele>
+        <time>2023-10-30T12:57:34Z</time>
+      </trkpt>
+      <trkpt lat="50.3084296826" lon="11.9235843234">
+        <ele>513.0</ele>
+        <time>2023-10-30T12:58:10Z</time>
+      </trkpt>
+      <trkpt lat="50.3084413335" lon="11.9235041924">
+        <ele>513.0</ele>
+        <time>2023-10-30T12:58:38Z</time>
+      </trkpt>
+      <trkpt lat="50.3084205464" lon="11.9235157594">
+        <ele>513.48</ele>
+        <time>2023-10-30T12:59:03Z</time>
+      </trkpt>
+      <trkpt lat="50.3083684109" lon="11.9235420786">
+        <ele>513.96</ele>
+        <time>2023-10-30T12:59:29Z</time>
+      </trkpt>
+      <trkpt lat="50.3083655611" lon="11.9235118199">
+        <ele>513.96</ele>
+        <time>2023-10-30T12:59:57Z</time>
+      </trkpt>
+      <trkpt lat="50.3082317021" lon="11.9234689884">
+        <ele>510.12</ele>
+        <time>2023-10-30T13:00:16Z</time>
+      </trkpt>
+      <trkpt lat="50.3080319613" lon="11.9232800603">
+        <ele>509.16</ele>
+        <time>2023-10-30T13:00:37Z</time>
+      </trkpt>
+      <trkpt lat="50.3080231603" lon="11.9232197106">
+        <ele>509.64</ele>
+        <time>2023-10-30T13:00:55Z</time>
+      </trkpt>
+      <trkpt lat="50.3080322966" lon="11.9230224844">
+        <ele>513.96</ele>
+        <time>2023-10-30T13:01:08Z</time>
+      </trkpt>
+      <trkpt lat="50.3081259225" lon="11.9226372521">
+        <ele>510.6</ele>
+        <time>2023-10-30T13:01:27Z</time>
+      </trkpt>
+      <trkpt lat="50.3082634695" lon="11.9222883135">
+        <ele>510.12</ele>
+        <time>2023-10-30T13:01:51Z</time>
+      </trkpt>
+      <trkpt lat="50.3083524853" lon="11.9220271334">
+        <ele>505.79</ele>
+        <time>2023-10-30T13:02:12Z</time>
+      </trkpt>
+      <trkpt lat="50.3084001783" lon="11.9218422286">
+        <ele>503.87</ele>
+        <time>2023-10-30T13:02:31Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

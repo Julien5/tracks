@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.0066790245" lon="9.7403147165">
+        <ele>605.29</ele>
+        <time>2023-10-26T14:32:47Z</time>
+      </trkpt>
+      <trkpt lat="48.0066443235" lon="9.7400903329">
+        <ele>583.18</ele>
+        <time>2023-10-26T14:33:03Z</time>
+      </trkpt>
+      <trkpt lat="48.0065285694" lon="9.7399413865">
+        <ele>580.29</ele>
+        <time>2023-10-26T14:33:15Z</time>
+      </trkpt>
+      <trkpt lat="48.0063735042" lon="9.7398425639">
+        <ele>583.18</ele>
+        <time>2023-10-26T14:33:26Z</time>
+      </trkpt>
+      <trkpt lat="48.0063328519" lon="9.739819346">
+        <ele>585.1</ele>
+        <time>2023-10-26T14:33:30Z</time>
+      </trkpt>
+      <trkpt lat="48.0062952172" lon="9.7397499438">
+        <ele>587.5</ele>
+        <time>2023-10-26T14:33:35Z</time>
+      </trkpt>
+      <trkpt lat="48.0062788725" lon="9.7395775281">
+        <ele>587.98</ele>
+        <time>2023-10-26T14:33:47Z</time>
+      </trkpt>
+      <trkpt lat="48.0063140765" lon="9.7395108081">
+        <ele>586.06</ele>
+        <time>2023-10-26T14:33:58Z</time>
+      </trkpt>
+      <trkpt lat="48.0063243024" lon="9.7395561542">
+        <ele>583.66</ele>
+        <time>2023-10-26T14:34:05Z</time>
+      </trkpt>
+      <trkpt lat="48.0062611867" lon="9.7395610996">
+        <ele>580.77</ele>
+        <time>2023-10-26T14:34:17Z</time>
+      </trkpt>
+      <trkpt lat="48.0062421598" lon="9.7395351157">
+        <ele>580.77</ele>
+        <time>2023-10-26T14:34:19Z</time>
+      </trkpt>
+      <trkpt lat="48.0062043574" lon="9.7393888514">
+        <ele>581.25</ele>
+        <time>2023-10-26T14:34:31Z</time>
+      </trkpt>
+      <trkpt lat="48.0061436724" lon="9.7391731851">
+        <ele>581.73</ele>
+        <time>2023-10-26T14:34:45Z</time>
+      </trkpt>
+      <trkpt lat="48.006092459" lon="9.7390657291">
+        <ele>584.14</ele>
+        <time>2023-10-26T14:34:56Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

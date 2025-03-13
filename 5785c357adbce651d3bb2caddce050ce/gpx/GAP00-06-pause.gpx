@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.0060309358" lon="9.7406888008">
+        <ele>553.38</ele>
+        <time>2024-03-04T00:53:23Z</time>
+      </trkpt>
+      <trkpt lat="48.0059282575" lon="9.7407192271">
+        <ele>552.9</ele>
+        <time>2024-03-04T00:53:50Z</time>
+      </trkpt>
+      <trkpt lat="48.0059865955" lon="9.740727609">
+        <ele>553.38</ele>
+        <time>2024-03-04T00:54:19Z</time>
+      </trkpt>
+      <trkpt lat="48.0059606116" lon="9.7407775652">
+        <ele>553.38</ele>
+        <time>2024-03-04T00:54:31Z</time>
+      </trkpt>
+      <trkpt lat="48.0058220588" lon="9.7408688441">
+        <ele>550.97</ele>
+        <time>2024-03-04T00:55:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0060826521" lon="9.74080313">
+        <ele>555.3</ele>
+        <time>2024-03-04T00:55:29Z</time>
+      </trkpt>
+      <trkpt lat="48.0061393976" lon="9.7407946642">
+        <ele>558.18</ele>
+        <time>2024-03-04T00:56:00Z</time>
+      </trkpt>
+      <trkpt lat="48.0061442591" lon="9.7407887969">
+        <ele>558.18</ele>
+        <time>2024-03-04T00:56:25Z</time>
+      </trkpt>
+      <trkpt lat="48.0061636213" lon="9.7407947481">
+        <ele>558.18</ele>
+        <time>2024-03-04T00:56:50Z</time>
+      </trkpt>
+      <trkpt lat="48.0061792955" lon="9.7407938261">
+        <ele>558.18</ele>
+        <time>2024-03-04T00:57:14Z</time>
+      </trkpt>
+      <trkpt lat="48.0062134936" lon="9.7408403456">
+        <ele>558.18</ele>
+        <time>2024-03-04T00:57:40Z</time>
+      </trkpt>
+      <trkpt lat="48.0062398966" lon="9.7408088297">
+        <ele>557.7</ele>
+        <time>2024-03-04T00:58:06Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
