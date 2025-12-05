@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="48.0062681437" lon="9.7407559399">
+        <ele>563.95</ele>
+        <time>2025-09-29T00:07:25Z</time>
+      </trkpt>
+      <trkpt lat="48.0057609547" lon="9.7395017557">
+        <ele>564.43</ele>
+        <time>2025-09-29T00:07:30Z</time>
+      </trkpt>
+      <trkpt lat="48.0045014899" lon="9.7366587818">
+        <ele>564.43</ele>
+        <time>2025-09-29T00:07:39Z</time>
+      </trkpt>
+      <trkpt lat="48.0029075034" lon="9.7340988647">
+        <ele>564.43</ele>
+        <time>2025-09-29T00:07:48Z</time>
+      </trkpt>
+      <trkpt lat="48.0019139126" lon="9.7326456942">
+        <ele>565.39</ele>
+        <time>2025-09-29T00:07:52Z</time>
+      </trkpt>
+      <trkpt lat="48.0000629369" lon="9.7296292987">
+        <ele>565.39</ele>
+        <time>2025-09-29T00:07:58Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
